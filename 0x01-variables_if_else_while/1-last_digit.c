@@ -1,5 +1,5 @@
-/** main - Prints the last digit of a randomly generated num
-ber
+/** 
+ * main - Prints the last digit of a randomly generated number
  * and whether it is greater that 5, less than 6, or 0.
  *
  * Return: Always 0.
